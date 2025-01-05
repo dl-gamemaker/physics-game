@@ -34,7 +34,11 @@
   },
   "name":"physics-game",
   "resources":[
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
+    {"id":{"name":"obj_platform","path":"objects/obj_platform/obj_platform.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
+    {"id":{"name":"spr_platform","path":"sprites/spr_platform/spr_platform.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
